@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+}
+
+
+.nava{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(103, 169, 190);
+    
+}
+.organiser{
+    display: flex;
+}
+body{
+    background: f1fbff;
+  
+    margin: 0px;
+
+}
+.title{
+    font-size: 40px;
+    color: black;
+    font-weight: 100px;
+    margin-top: 15px;
+}
+span{
+    color: deeppink;
+}
+#linkers{
+    display: flex;
+    margin-left: 500px;
+
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    color: salmon;
+    
+}
+ul{
+    list-style-type: none;
+    margin-top: 38px;
+     
+}
+.ups{
+    margin: 7px;
+}
+.next{
+    font-size: 40px;
+    
+    
+}
+button{
+    
+}
+.cover{
+    background: url(bill.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0,0,0.7);
+    z-index: 1;
+    position: ;
+
+}
+.learn{
+   
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 7px;
+    
+}
+.let{
+    font-size: 50px;
+    color: rgb(184, 19, 19);
+    text-align: center;
+}
+.orange{
+    height: 40px;
+    width: 100px;
+    background-color: orange;
+    margin-left: 450px;
+    margin-top: 35ex;
+    
+}
+#more{
+    font-size: 25px;
+    color: red;
+    font-weight: bolder;
+}
+.navi{
+    margin-top: 2px;
+    display: flex;
+    text-decoration: underline;
+    
+}
+.next{
+    font-size: 27px;
+    margin: 40px;
+    color: rgb(107, 62, 10);
+}
+.shell{
+    color: whitesmoke;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 40px;
+}
+#ok{
+    color: tomato;
+}
+.mypics{
+    display: flex;
+}
+.profile{
+    width: 450px;
+    height: 350px;
+}
+
+
+
+
+
+h3,h4{
+    margin-left: 9px;
+}
+.inside{
+    height: 190px;
+    width: 240px;
+    margin-left: 9px;
+}
+.withus{
+    display: flex;
+}
+.complete{
+    height: 200px;
+    width: 270px;
+
+}
+.house3{
+    height: 192px;
+    width: 240px;
+    margin: 9px;
+}
+.sec{
+    height: 200px;
+    width: 270px;
+}
+.third{
+    height: 200px;
+    width: 270px;
+}
+h1{
+    text-align: center;
+}
+
+
+.flexer{
+    background: url(our.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.pp{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 120px;
+    color: darkorange;
+    text-transform: capitalize;
+    
+}
+
+.last{
+    background: url(greatteam.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+#sp{
+    padding-top: 20px;
+}
+.orang{
+    height: 40px;
+    width: 100px;
+    background-color: orange;
+    margin-left: 450px;
+}
+.contacts{
+    margin-left: 35px;
+}
+.rights{
+    height: 35px;
+    width: 100%;
+    background-color: grey;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 7px;
+}
+.send{
+    height: 35px;
+    width: 50%;
+    color: whitesmoke;
+    background-color: orange;
+    margin-left: 230px;
+    text-align: center;
+}
+#now{
+padding-top: 7px;
+font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
